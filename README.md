@@ -73,8 +73,8 @@ Layout of an E-commerce, from the practical course of Fronted Developer Platzi
 
 ### Built With
 
-* [html]
-* [css]
+* html
+* css
 
 <!-- * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
